@@ -1,0 +1,5 @@
+﻿[dotenv@17.2.3] injecting env (6) from .env -- tip: ΓÜÖ∩╕Å  suppress all logs with { quiet: true }
+Error creating database: {
+  "message": "",
+  "code": "ECONNREFUSED"
+}
